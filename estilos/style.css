@@ -8,9 +8,23 @@ body {
 }
 
 main {
-    background-color: blanchedalmond;
+    background-color:coral;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+h1 {
+    font: size 3em;
+    color:rgb(52, 35, 121);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(52, 35, 121);
+}
+
+img.lado {
+    float:right;
 }
